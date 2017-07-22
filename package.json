@@ -1,0 +1,14 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "description": "This is sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MasaCode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
